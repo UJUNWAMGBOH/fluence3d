@@ -1,0 +1,10 @@
+# Core
+numpy>=1.22
+matplotlib>=3.6
+scikit-image>=0.20
+scipy>=1.10
+
+# PyTorch / MONAI
+torch>=2.1
+torchvision>=0.16
+monai>=1.3
