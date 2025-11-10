@@ -1,4 +1,4 @@
-# Fluence3D: 3D SwinUNETR — CT + Contour → 2D Fluence
+#Fluence3D: 3D SwinUNETR — CT + Contour → 2D Fluence
 
 Predict 9-channel fluence maps from 3D CT and contour volumes using a 3D SwinUNETR
 
